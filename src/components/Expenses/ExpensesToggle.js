@@ -1,9 +1,9 @@
 const ExpensesToggle = () => {
-  return (
-    <div>
-      <button>Show Expenses</button>
-    </div>
-  );
-};
+    return (
+        <div>
+            <button>Show Expenses</button>
+        </div>
+    )
+}
 
-export default ExpensesToggle;
+export default ExpensesToggle
