@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import ExpenseItem from './ExpenseItem'
 import Card from '../UI/Card'
 import ExpensesChart from './ExpensesChart'
 import ExpenseFilter from './ExpenseFilter'
